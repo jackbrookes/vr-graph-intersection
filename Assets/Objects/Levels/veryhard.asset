@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67c5fba9cf1708546b3f8b0b923b301b, type: 3}
+  m_Name: veryhard
+  m_EditorClassIdentifier: 
+  nodes:
+  - type: {fileID: 11400000, guid: 58f5eb41046ec7d4dba3f4c5937bd000, type: 2}
+    position: {x: -0.44369027, y: 0.24627887, z: -0.48265836}
+  - type: {fileID: 11400000, guid: 58f5eb41046ec7d4dba3f4c5937bd000, type: 2}
+    position: {x: -0.2938336, y: 0.07886384, z: -0.4001569}
+  - type: {fileID: 11400000, guid: 58f5eb41046ec7d4dba3f4c5937bd000, type: 2}
+    position: {x: -0.49011895, y: -0.34242135, z: -0.43053642}
+  - type: {fileID: 11400000, guid: 58f5eb41046ec7d4dba3f4c5937bd000, type: 2}
+    position: {x: -0.23457894, y: -0.1453784, z: -0.031678148}
+  - type: {fileID: 11400000, guid: 58f5eb41046ec7d4dba3f4c5937bd000, type: 2}
+    position: {x: 0.16113427, y: -0.329773, z: -0.2670918}
+  - type: {fileID: 11400000, guid: b46ea02c01f9ea64c9f6e75500a95f7c, type: 2}
+    position: {x: -0.35378096, y: -0.42383105, z: 0.034796584}
+  - type: {fileID: 11400000, guid: b46ea02c01f9ea64c9f6e75500a95f7c, type: 2}
+    position: {x: -0.36639, y: 0.11185474, z: 0.15028736}
+  - type: {fileID: 11400000, guid: b46ea02c01f9ea64c9f6e75500a95f7c, type: 2}
+    position: {x: -0.3936717, y: 0.056091905, z: -0.0719672}
+  - type: {fileID: 11400000, guid: b46ea02c01f9ea64c9f6e75500a95f7c, type: 2}
+    position: {x: -0.13369486, y: -0.19407398, z: 0.14133525}
+  - type: {fileID: 11400000, guid: b46ea02c01f9ea64c9f6e75500a95f7c, type: 2}
+    position: {x: -0.48410386, y: -0.39967564, z: -0.15822214}
+  - type: {fileID: 11400000, guid: 44910d3e9cb3f814398ede7eb9ccf49b, type: 2}
+    position: {x: -0.07000215, y: -0.47537917, z: 0.08572681}
+  - type: {fileID: 11400000, guid: 2fa19da514e2ee94392a7ba2c55044b0, type: 2}
+    position: {x: 0.2971335, y: -0.1500769, z: 0.24871677}
+  - type: {fileID: 11400000, guid: 2fa19da514e2ee94392a7ba2c55044b0, type: 2}
+    position: {x: 0.18106043, y: -0.25437054, z: 0.04049927}
+  - type: {fileID: 11400000, guid: 2fa19da514e2ee94392a7ba2c55044b0, type: 2}
+    position: {x: -0.24086046, y: -0.30028886, z: -0.19180931}
+  - type: {fileID: 11400000, guid: 2fa19da514e2ee94392a7ba2c55044b0, type: 2}
+    position: {x: 0.021430576, y: -0.3558065, z: -0.33892652}
+  - type: {fileID: 11400000, guid: 2fa19da514e2ee94392a7ba2c55044b0, type: 2}
+    position: {x: 0.07856138, y: 0.23777798, z: -0.4676255}
+  - type: {fileID: 11400000, guid: 2fa19da514e2ee94392a7ba2c55044b0, type: 2}
+    position: {x: 0.28706175, y: -0.29669636, z: -0.39588898}
+  - type: {fileID: 11400000, guid: 2fa19da514e2ee94392a7ba2c55044b0, type: 2}
+    position: {x: -0.22720675, y: -0.4523285, z: -0.4742072}
+  maxEdges: 25
+  solution:
+  - values: 000000000100000002000000
+  - values: 010000000200000003000000
+  - values: 020000000300000004000000
+  - values: 050000000600000007000000
+  - values: 070000000800000009000000
+  - values: 0a0000000b0000000c000000
+  - values: 0c0000000d0000000e000000
+  - values: 0f0000001000000011000000

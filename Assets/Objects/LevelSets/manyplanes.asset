@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70643f89195a1744abec6ca36befdc2b, type: 3}
+  m_Name: manyplanes
+  m_EditorClassIdentifier: 
+  levels:
+  - {fileID: 11400000, guid: 694730e81241e6c4a941e95148b8d15b, type: 2}
+  - {fileID: 11400000, guid: dc7dafda85454aa4fbafd922b75aa8d4, type: 2}
+  - {fileID: 11400000, guid: cd35ae844e6922a449db5d405eebed83, type: 2}
+  - {fileID: 11400000, guid: 51c03397de5abb943ae57b24e85e4fd4, type: 2}
+  - {fileID: 11400000, guid: dd806fb4eba4c0e418a5d1f2022a575c, type: 2}
+  - {fileID: 11400000, guid: d6046b1e0b49f4c42a7b62548cef8952, type: 2}
+  - {fileID: 11400000, guid: 78df1d233880b204e8cb7a7162386931, type: 2}
+  - {fileID: 11400000, guid: 7ae28a6a9d9994443b30668ec96278b3, type: 2}
+  - {fileID: 11400000, guid: 67cb7a0a78895be4f8118795b2ee45a1, type: 2}
+  - {fileID: 11400000, guid: e76c5bdfed8675744b6c295d07b0e37f, type: 2}

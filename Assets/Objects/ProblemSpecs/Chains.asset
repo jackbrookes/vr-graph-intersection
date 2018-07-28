@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b9c1fceaf8de145bfbee4809bb8668, type: 3}
+  m_Name: Chains
+  m_EditorClassIdentifier: 
+  extraEdges: 0
+  replacements:
+    nodeType: {fileID: 0}
+    numReplacements: 0
+  shapeSpecs:
+  - nodeType: {fileID: 11400000, guid: 2fa19da514e2ee94392a7ba2c55044b0, type: 2}
+    shapeName: 4
+  - nodeType: {fileID: 11400000, guid: b46ea02c01f9ea64c9f6e75500a95f7c, type: 2}
+    shapeName: 4
+  - nodeType: {fileID: 11400000, guid: 58f5eb41046ec7d4dba3f4c5937bd000, type: 2}
+    shapeName: 4

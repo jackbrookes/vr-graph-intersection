@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dddbaa011ebfb448a566f931144b71a, type: 3}
+  m_Name: ColorNodes
+  m_EditorClassIdentifier: 
+  nodeTypes:
+  - {fileID: 11400000, guid: b46ea02c01f9ea64c9f6e75500a95f7c, type: 2}
+  - {fileID: 11400000, guid: 58f5eb41046ec7d4dba3f4c5937bd000, type: 2}
+  - {fileID: 11400000, guid: 4dc8ad48a06cf7b4592cfd7e2bee6078, type: 2}
+  - {fileID: 11400000, guid: 2fa19da514e2ee94392a7ba2c55044b0, type: 2}
+  - {fileID: 11400000, guid: 279c737057c7fe447afad7b14478f749, type: 2}
